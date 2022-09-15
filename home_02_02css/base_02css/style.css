@@ -1,0 +1,17 @@
+.g{
+    font-weight: bold;
+    list-style-type: upper-roman;
+}
+
+li{
+    list-style-type: lower-roman;
+}
+div{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 900;
+    color: green;
+    background-color: black;
+    width: 700px;
+    height: 100px;
+    overflow: scroll;
+}

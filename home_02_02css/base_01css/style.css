@@ -1,0 +1,42 @@
+.g{
+    background-image: url(1.png);
+    background-repeat: repeat;
+    height: 190px;
+    width: 144px; 
+}
+.gg{
+    background-image: url(1.png);
+    background-repeat: repeat;
+    height: 190px;
+    width: 144px;
+    background-position: 0px -1790px;
+    margin-left: 23px;
+    margin-top: -124px; 
+}
+.ggg{
+    background-image: url(1.png);
+    background-repeat: repeat;
+    height: 190px;
+    width: 144px;
+    background-position: -286px 1186px;
+    margin-left: 44px;
+    margin-top: -124px;
+}
+.gggg{
+    background-image: url(1.png);
+    background-repeat: repeat;
+    height: 190px;
+    width: 144px;
+    background-position: -282px 390px;
+    margin-left: 71px;
+    margin-top: -124px;
+}
+.ggggg{
+    background-image: url(1.png);
+    background-repeat: repeat;
+    height: 190px;
+    width: 144px;
+    background-position: -282px 191px;
+    margin-left: 85px;
+    margin-top: -120px;
+}
