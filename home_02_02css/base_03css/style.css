@@ -1,0 +1,30 @@
+.navigation{
+    background-color: rgb(118, 91, 55);
+    width: 15em;
+    float: left;
+    height: 427px;
+}
+
+.fist{
+    background-color: bisque;
+    margin-bottom: 2em;
+}
+
+
+.footer{
+    background-color: beige;  
+}
+
+.wrap{
+    background-color: brown;
+}
+
+.clear{
+    height: 20px;
+    background-color: rgb(3, 27, 27);
+    clear: both; 
+}
+.photo{
+    float: right;
+    clear: right;
+}   
