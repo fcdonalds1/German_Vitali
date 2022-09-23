@@ -26,12 +26,19 @@
 .menu li:hover li{
     display: block;
 }
+nav{
+    width: 624px;
+}
 
     @media all and (max-width: 1197px){
         .menu ul li{
             display: flex;
         }
         .menu li:hover ul{
-            margin-left: 40px;
+            margin-left: 50px;
+        }
+    nav{
+        width: 110px;
+    }    
 
     }
