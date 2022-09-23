@@ -1,0 +1,12 @@
+a.ggg{
+    position: relative;
+    background-image: url(word.png);
+    width: 200px;
+    height: 150px;
+
+    display: block;
+}  
+
+a:hover {
+    background-image: url(pdf.png);
+}

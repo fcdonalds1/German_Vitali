@@ -1,0 +1,31 @@
+.doc{
+    padding: 2px;
+    
+}
+.doc:hover{
+    background: url(document.png) no-repeat 100% 5px;
+    padding-right: 15px;
+    background-color: gray;
+}
+
+.pdf{
+    padding: 2px;
+}
+.pdf:hover{
+    background: url(pdf.png) no-repeat 100% 5px;
+    padding-right: 17px;
+    padding-top: 5px;
+    background-color: gray;
+}
+
+.zip{
+    padding: 2px;
+}
+
+.zip:hover{
+    background: url(zip.png) no-repeat 100% 5px;
+    padding-right: 20px;
+    background-color: grey;
+}
+
+

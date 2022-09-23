@@ -1,0 +1,37 @@
+.menu ul li{
+  display: inline-block; 
+  padding: 10px;
+  border: solid 1px;
+  height: 10px;
+  
+}
+.menu ul{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+.menu ul ul{
+    display: none;
+    position: absolute;
+    background-color: rgb(128, 128, 124);
+}
+.menu li:hover ul{
+    display: block;
+    background-color: aquamarine;
+    margin-left: -11px;
+    margin-top: px;
+}
+.menu li:hover li{
+    display: block;
+}
+
+    @media all and (max-width: 1197px){
+        .menu ul li{
+            display: flex;
+        }
+        .menu li:hover ul{
+            margin-left: 40px;
+
+    }

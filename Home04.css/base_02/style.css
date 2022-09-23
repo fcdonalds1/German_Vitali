@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+    border-style: dotted;
+}
+.colour{
+    background-color: gray;
+}
+th, td{
+    padding: 3px;
+    border: 1px solid;
+}
+tr:hover{
+    background-color: aqua;
+}
