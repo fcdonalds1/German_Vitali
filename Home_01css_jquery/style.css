@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+    border-style: dotted;
+}
+.colour{
+    background-color: gray;
+}
+th, td{
+    padding: 3px;
+    border: 1px solid;
+}
+.gray{
+    background-color: antiquewhite;
+}
+button{
+    background-color: rgb(94, 94, 217);
+    height: 50px;
+    margin-left: 500px;
+    margin-top: 50px;
+}

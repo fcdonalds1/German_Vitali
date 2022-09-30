@@ -1,0 +1,14 @@
+.item{
+    height: 50px;
+    margin-bottom: 70spx;
+    display: inline-block;
+}
+.color{
+    color: aqua;
+}
+.colour{
+    color: green;
+}
+.background{
+    background-color: rgb(9, 64, 99);
+}
